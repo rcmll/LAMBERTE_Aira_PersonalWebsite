@@ -24,3 +24,7 @@
     text-decoration: none;
     font-family: sans-serif;
 }
+
+.navbar ul li a:hover {
+    color: #fff;
+}
