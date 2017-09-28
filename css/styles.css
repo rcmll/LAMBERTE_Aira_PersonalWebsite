@@ -84,11 +84,15 @@
     background-color: #fff;
 }
 
-.about h2 {
+.about h1 {
     font-family: sans-serif;
     color: #888;
-    text-align: center;
-    
+    text-align: center;    
+}
+
+.about hr {
+    width: 200px;
+    border-color: #888;
 }
 
 
