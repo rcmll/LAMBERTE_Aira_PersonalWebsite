@@ -63,10 +63,15 @@
     background-color: #eee;
 }
 
-.content img {
+.skills {
+    width: 1000px;
+    height: 400px;
+}
+
+.skills img {
+    width 200px;
+    height: 300px;
     margin-left: 100px;
-    
-    
 }
 
 
