@@ -40,11 +40,13 @@
 .header img {
     width: 200px;
     height: 200px;
-    margin-left: 579px;
+    margin-left: 572px;
+    margin-top: 20px;
 }
 
-
-
-
-
+.header h2 {
+    font-family: sans-serif;
+    text-align: center
+    color: #eee;
+}
 
