@@ -144,10 +144,14 @@
     width: 400px;
     height: 100px;
     margin-top: 10px;
-    
 }
 
-
+.form button {
+    width: 100px;
+    height: 35px;
+    margin-top: 10px;
+    background-color: darkseagreen;
+}
 
 
 
