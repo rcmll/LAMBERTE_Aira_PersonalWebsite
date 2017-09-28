@@ -40,13 +40,13 @@
 .header img {
     width: 200px;
     height: 200px;
-    margin-left: 572px;
+    margin-left: 579px;
     margin-top: 20px;
 }
 
 .header h2 {
     font-family: sans-serif;
-    text-align: center
+    text-align: center;
     color: #eee;
 }
 
@@ -66,12 +66,16 @@
 .skills {
     width: 1000px;
     height: 400px;
-    margin-left: 500px;
+    margin-left: 332px;
 }
 
 .skills img {
-    margin-left: 100px;
+    margin-top: 100px;
+    padding 50px;
+
 }
+
+
 
 
 
