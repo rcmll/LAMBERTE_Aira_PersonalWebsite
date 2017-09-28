@@ -99,6 +99,12 @@
 .caption {
     width: 800px;
     height: 300px;
+    margin: auto;
+}
+
+.caption p {
+    font-family: sans-serif;
+    
 }
 
 
