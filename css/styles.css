@@ -131,14 +131,21 @@
 .form {
     width: 500px;
     height: 500px;
-    margin-left: 500px;
+    margin-left: 669px; 
 }
 
 .form input {
     width: 400px;
     height: 30px;
+    margin-top: 10px;
 }
 
+.form textarea {
+    width: 400px;
+    height: 100px;
+    margin-top: 10px;
+    
+}
 
 
 
