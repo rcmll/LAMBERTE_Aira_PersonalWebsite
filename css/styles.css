@@ -131,7 +131,7 @@
 .form {
     width: 500px;
     height: 500px;
-    margin-left: 669px; 
+    margin-left: 785px; /* 669px */
 }
 
 .form input {
@@ -146,8 +146,8 @@
     width: 400px;
     height: 100px;
     margin-top: 10px;
-    font-family: sans-serif;
     text-indent: 10px;
+    font-family: sans-serif;
     border: 2px solid darkseagreen;
 }
 
@@ -159,7 +159,9 @@
     border: none;
     border-radius: 1px;
     cursor: pointer;
+    font-weight: bold;
 }
+
 
 
 
