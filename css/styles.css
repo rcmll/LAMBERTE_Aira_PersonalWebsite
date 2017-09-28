@@ -63,6 +63,12 @@
     background-color: #eee;
 }
 
+.content img {
+    padding: 10px;
+    
+    
+}
+
 /*
 .skills {
     width: 1000px;
@@ -72,8 +78,6 @@
 .skills img {
     margin-left: 100px;
 }
-
-
 */
 
 
