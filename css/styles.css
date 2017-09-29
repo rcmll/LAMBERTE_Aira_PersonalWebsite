@@ -298,3 +298,24 @@
 	color: #d1d2d2;
 	font-size: 18px;
 }
+
+/* search */ 
+
+.footer-distributed form input:focus{
+	outline: none;
+}
+
+/* Changing the placeholder color of search*/
+
+.footer-distributed form input::-webkit-input-placeholder {
+	color:  #5c666b;
+}
+
+.footer-distributed form input::-moz-placeholder {
+	opacity: 1;
+	color:  #5c666b;
+}
+
+.footer-distributed form input:-ms-input-placeholder{
+	color:  #5c666b;
+}
