@@ -229,7 +229,7 @@
 .footer .footer-left{
 	float: left;
 }
-
+/*links*/
 .footer .footer-links{
 	margin: 0 0 10px;
 	padding: 0;
@@ -241,4 +241,18 @@
 	text-decoration: none;
 	color: #bbb;
 }
+/*end of links*/
 
+ /*person*/
+.footer form input a:hover {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.footer .person{
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+/*end of person*/
