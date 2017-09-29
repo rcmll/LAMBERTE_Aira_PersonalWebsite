@@ -12,8 +12,14 @@
 
 .navbar h2 {
     float: left;
-    margin-top: 12px;
+    margin-top: 16px;
     margin-left: 32px;
+    font-family: sans-serif;
+}
+
+.navbar h2 a{
+    color: #000;
+    text-decoration: none;
 }
 .navbar ul {
     margin-left: 1040px;
