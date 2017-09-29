@@ -286,6 +286,15 @@
 	padding: 18px 50px 18px 18px;
 }
 
-.footer form input:focus{
-	outline: none;
+/* The magnify glass icon */
+
+.footer form i{
+	width: 18px;
+	height: 18px;
+	position: absolute;
+	top: 16px;
+	right: 18px;
+
+	color: #d1d2d2;
+	font-size: 18px;
 }
