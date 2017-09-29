@@ -1,3 +1,7 @@
+.body {
+    background-color: #888;
+}
+
 .container {
     width: 100%;
     height: auto;
@@ -77,6 +81,18 @@
     width: 100%;
     height: 400px;
     background-color: #eee;
+    margin-top: -22px;
+}
+
+.content h1 {
+    font-family: sans-serif;
+    color: #888;
+    text-align: center;
+}
+
+.content hr {
+    width: 200px;
+    border-color: #888;
 }
 
 .skills {
@@ -86,7 +102,7 @@
 }
 
 .skills img {
-    margin-top: 8px;
+    margin-top: 10px;
     padding 50px;
 
 }
@@ -98,6 +114,7 @@
     width: 100%;
     height: 400px;
     background-color: #fff;
+    margin-top: -15px;
 }
 
 .about h1 {
@@ -129,8 +146,9 @@
 /* CONTACT */
 .contact {
     width: 100%;
-    height: 460px;
+    height: 445px;
     background-color: #eee;
+    margin-top: -45px;
 }
 
 .contact h1 {
