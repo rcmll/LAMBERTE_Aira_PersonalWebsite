@@ -96,9 +96,9 @@
 }
 
 .skills {
-    width: 1152px;
+    width: 1234;
     height: 400px;
-    margin-left: 98px;
+    margin-left: 96px;
 }
 
 .skills img {
@@ -157,10 +157,20 @@
     border-color: #888;
 }
 
+.contact img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 491px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
 .form {
     width: 500px;
-    height: 263px;
+    height: 343px;
     margin-left: 775px;
+    margin-top: 35px;
 }
 
 .form input {
@@ -168,7 +178,7 @@
     height: 30px;
     margin-top: 10px;
     text-indent: 10px;
-     border: 2px solid #2b384c;
+    border: 2px solid #2b384c;
 }
 
 .form textarea {
@@ -195,13 +205,6 @@
     background-color: #555f6f;   
 }
 
-.contact img {
-    width: 200px;
-    height: 200px;
-    float: left;
-    margin-left: 385px;
-    margin-top: 10px;
-}
 
 .footer {
 	background-color: #292c2f;
